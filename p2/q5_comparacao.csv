@@ -1,0 +1,7 @@
+metodo,psnr_db,contraste_rms,entropia_bits,grad_medio,tempo_ms
+Gaussiano PB,14.11,53.71,7.346,199.564,27.71
+Gaussiano PA,n/a,22.64,5.550,59.766,38.63
+Butterworth (opc.),16.36,43.15,7.371,132.804,32.02
+Notch,42.72,21.76,5.308,21.386,25.86
+Unsharp Mask,n/a,34.07,6.114,54.210,13.94
+Homomorfico (opc.),n/a,20.66,5.075,46.476,46.00
